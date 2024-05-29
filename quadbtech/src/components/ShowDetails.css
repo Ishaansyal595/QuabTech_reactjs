@@ -1,0 +1,39 @@
+.card {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 30px 0px rgba(12, 4, 4, 0.1);
+  margin-left: 20px;
+  width: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  transition: transform 0.8s;
+}
+
+.card .left {
+  width: 150px;
+}
+
+.card-body {
+  padding: 10px;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.card-right {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.btn {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
