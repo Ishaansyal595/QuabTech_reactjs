@@ -1,1 +1,1 @@
-# Quabtech_ReactJS
+This is an app where show descriptions are provided. On the home page, there are cards for each show containing the show's image, name, and summary, along with a "Know More" button beneath each card. Clicking on this button will take you to the respective show's page, where there will be a "Book Now" button. Clicking on it will lead you to the show booking page, where you will be asked for some information.
